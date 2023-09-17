@@ -1,0 +1,33 @@
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\bin\Debug\ProjectCaseyFuhCham.exe.config
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\bin\Debug\ProjectCaseyFuhCham.exe
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\bin\Debug\ProjectCaseyFuhCham.pdb
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.AssemblyReference.cache
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.SuggestedBindingRedirects.cache
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Form1.resources
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Properties.Resources.resources
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.GenerateResource.cache
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.CoreCompileInputs.cache
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.exe
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.pdb
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Lotto649.resources
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.LottoMAX.resources
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.MoneyEx.resources
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.TempApp.resources
+C:\Users\THE EYE INFORMATIQUE\source\repos\Winter 2023\OOP\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Calculator.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.exe
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.pdb
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\bin\Debug\ProjectCaseyFuhCham.exe.config
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\bin\Debug\ProjectCaseyFuhCham.exe
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\bin\Debug\ProjectCaseyFuhCham.pdb
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Calculator.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Form1.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Lotto649.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.LottoMAX.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.MoneyEx.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.TempApp.resources
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\LaSalle College\Level 2\Object Oriented Programming\ProjectCaseyFuhCham\ProjectCaseyFuhCham\obj\Debug\ProjectCaseyFuhCham.IP4_Validator.resources

@@ -1,0 +1,7 @@
+100 C = 212 F, 2023/04/09  4:40:10 PM Water boils 
+45 F = 7.22222222222222 C, 2023/04/09  4:40:20 PM Freezing point of water 
+300 F = 148.888888888889 C, 2023/04/09  4:40:26 PM Water boils 
+57 C = 134.6 F, 2023/04/09  4:40:35 PM Hot Bath 
+34 F = 1.11111111111111 C, 2023/04/11  8:14:11 AM Freezing point of water 
+-40 C = -40 F, 2023/04/18  10:15:40 AM Extremely Cold Day 
+-100 C = -148 F, 2023/04/18  10:16:01 AM Extremely Cold Day 
