@@ -1,5 +1,5 @@
 # <b>Project: </b> 420-CT2-AS - Object-Oriented Programming Project
-Author: Your Name
+Author: Casey Fuh-Cham
 Date Completed: 2023-04-18
 
 ## Project Description
