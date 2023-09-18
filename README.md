@@ -30,8 +30,9 @@ Maintained clean and well-documented code throughout the project.
 <ul>Clone or download this repository.</ul>
 <ul>Open the project files in Visual Studio or your preferred C# development environment.</ul>
 <ul>Build and run the individual forms to explore their functionalities.</ul>
+
 ## Project Screenshots
+![OOP Classes Main](https://github.com/caseyfuhcham23/OOP-classes/blob/main/OOP%20Classes%20main.png)
 
-
-Documentation
+## Documentation
 For detailed documentation, including code explanations, class diagrams, and usage instructions, please refer to the included technical and user documents.
